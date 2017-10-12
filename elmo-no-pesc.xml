@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<elmo>
+    <generatedDate>2017-10-03T10:18:32+02:00</generatedDate>
+    <learner>
+        <citizenship>US</citizenship>
+        <identifier type="nationalIdentifier">14028339497</identifier>
+        <givenNames>Test Record Test</givenNames>
+        <familyName>Speede</familyName>
+        <bday>1967-07-14</bday>
+    </learner>
+    <report>
+        <issuer>
+            <country>US</country>
+            <identifier type="schac">utexas.edu</identifier>
+            <title xml:lang="en">THE UNIVERSITY OF TEXAS AT AUSTIN</title>
+            <url>http://www.utexas.edu/</url>
+        </issuer>
+        <learningOpportunitySpecification>
+            <identifier type="local">SPAN 105</identifier>
+            <identifier type="elmo">414823431565294</identifier>
+            <title xml:lang="en">BEGINNING SPANISH 1</title>
+            <type>Course</type>
+            <specifies>
+                <learningOpportunityInstance>
+                    <start>1985-09-01</start>
+                    <date>1985-12-15</date>
+                    <academicTerm>
+                        <title xml:lang="en">1985 Autumn</title>
+                        <start>1985-09-01</start>
+                        <end>1985-12-15</end>
+                    </academicTerm>
+                    <resultLabel>A</resultLabel>
+                    <credit>
+                        <scheme>US</scheme>
+                        <level>LowerDivision</level>
+                        <value>4</value>
+                    </credit>
+                </learningOpportunityInstance>
+            </specifies>
+        </learningOpportunitySpecification>
+        <learningOpportunitySpecification>
+            <identifier type="local">HIST 105</identifier>
+            <identifier type="elmo">414823921065294</identifier>
+            <title xml:lang="en">HISTORY OF THE US 1</title>
+            <type>Course</type>
+            <specifies>
+                <learningOpportunityInstance>
+                    <start>1985-09-01</start>
+                    <date>1985-12-15</date>
+                    <academicTerm>
+                        <title xml:lang="en">1985 Autumn</title>
+                        <start>1985-09-01</start>
+                        <end>1985-12-15</end>
+                    </academicTerm>
+                    <resultLabel>A</resultLabel>
+                    <credit>
+                        <scheme>US</scheme>
+                        <level>LowerDivision</level>
+                        <value>3</value>
+                    </credit>
+                </learningOpportunityInstance>
+            </specifies>
+        </learningOpportunitySpecification>
+        <learningOpportunitySpecification>
+            <identifier type="local">SPAN 106</identifier>
+            <identifier type="elmo">414823921065294</identifier>
+            <title xml:lang="en">BEGINNING SPANISH 2</title>
+            <type>Course</type>
+            <specifies>
+                <learningOpportunityInstance>
+                    <start>1986-01-01</start>
+                    <date>1986-07-15</date>
+                    <academicTerm>
+                        <title xml:lang="en">1986 Spring</title>
+                        <start>1986-01-01</start>
+                        <end>1986-07-15</end>
+                    </academicTerm>
+                    <resultLabel>A</resultLabel>
+                    <credit>
+                        <scheme>US</scheme>
+                        <level>LowerDivision</level>
+                        <value>4</value>
+                    </credit>
+                </learningOpportunityInstance>
+            </specifies>
+        </learningOpportunitySpecification>
+        <issueDate>2017-10-03T10:18:36+02:00</issueDate>
+    </report>
+</elmo>

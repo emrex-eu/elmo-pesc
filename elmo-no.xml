@@ -1,0 +1,216 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<elmo>
+    <generatedDate>2017-10-03T10:18:32+02:00</generatedDate>
+    <learner>
+        <citizenship>NO</citizenship>
+        <identifier type="nationalIdentifier">XXXXXXX</identifier>
+        <givenNames>Test</givenNames>
+        <familyName>Tester</familyName>
+        <bday>1981-04-11</bday>
+    </learner>
+    <report>
+        <issuer>
+            <country>NO</country>
+            <identifier type="local">185</identifier>
+            <identifier type="erasmus">N OSLO01</identifier>
+            <identifier type="schac">uio.no</identifier>
+            <identifier type="pic">999975814</identifier>
+            <title xml:lang="no">Universitetet i Oslo</title>
+            <title xml:lang="en">University of Oslo</title>
+            <url>http://www.uio.no/</url>
+        </issuer>
+        <learningOpportunitySpecification>
+            <identifier type="local">SVM2-OLA</identifier>
+            <identifier type="elmo">414823431565294</identifier>
+            <identifier type="nus">741146</identifier>
+            <title xml:lang="no">Master i organisasjon, ledelse og arbeid</title>
+            <title xml:lang="en">Master of Philosophy in Organisation, Leadership and Work</title>
+            <type>Degree Programme</type>
+            <iscedCode>0413</iscedCode>
+            <url>http://www.uio.no/studier/program/org-ledelse-master/index.xml</url>
+            <specifies>
+                <learningOpportunityInstance>
+                    <start>2016-01-15</start>
+                    <date>2016-06-23</date>
+                    <academicTerm>
+                        <title xml:lang="no">2016 Vår</title>
+                        <title xml:lang="nn">2016 Vår</title>
+                        <title xml:lang="en">2016 Spring</title>
+                        <start>2016-01-15</start>
+                        <end>2016-06-23</end>
+                    </academicTerm>
+                    <credit>
+                        <scheme>ECTS</scheme>
+                        <level>Master</level>
+                        <value>120</value>
+                    </credit>
+                </learningOpportunityInstance>
+            </specifies>
+            <hasPart>
+                <learningOpportunitySpecification>
+                    <identifier type="local">PED4051-1</identifier>
+                    <identifier type="elmo">113186552915982</identifier>
+                    <identifier type="nus">724115</identifier>
+                    <identifier type="courseCode">PED4051</identifier>
+                    <identifier type="courseVersion">1</identifier>
+                    <title xml:lang="no">Veiledning</title>
+                    <title xml:lang="en">Veiledning</title>
+                    <type>Course</type>
+                    <subjectArea>05.7</subjectArea>
+                    <iscedCode>0111</iscedCode>
+                    <url>http://www.uio.no/studier/emner/uv/iped/PED4051/</url>
+                    <specifies>
+                        <learningOpportunityInstance>
+                            <start>2014-01-15</start>
+                            <date>2014-07-15</date>
+                            <academicTerm>
+                                <title xml:lang="no">2014 Vår</title>
+                                <title xml:lang="nn">2014 Vår</title>
+                                <title xml:lang="en">2014 Spring</title>
+                                <start>2014-01-15</start>
+                                <end>2014-07-15</end>
+                            </academicTerm>
+                            <resultLabel>Bestått</resultLabel>
+                            <credit>
+                                <scheme>ECTS</scheme>
+                                <level>Master</level>
+                                <value>5</value>
+                            </credit>
+                            <engagementHours>0.0</engagementHours>
+                        </learningOpportunityInstance>
+                    </specifies>
+                </learningOpportunitySpecification>
+            </hasPart>
+            <hasPart>
+                <learningOpportunitySpecification>
+                    <identifier type="local">PED4420-1</identifier>
+                    <identifier type="elmo">321868345743482</identifier>
+                    <identifier type="nus">724115</identifier>
+                    <identifier type="courseCode">PED4420</identifier>
+                    <identifier type="courseVersion">1</identifier>
+                    <title xml:lang="no">Motivasjon og ledelse</title>
+                    <title xml:lang="en">Motivation and Leadership</title>
+                    <type>Course</type>
+                    <subjectArea>05.7</subjectArea>
+                    <iscedCode>0111</iscedCode>
+                    <url>http://www.uio.no/studier/emner/uv/iped/PED4420/</url>
+                    <specifies>
+                        <learningOpportunityInstance>
+                            <start>2014-01-15</start>
+                            <date>2014-07-15</date>
+                            <academicTerm>
+                                <title xml:lang="no">2014 Vår</title>
+                                <title xml:lang="nn">2014 Vår</title>
+                                <title xml:lang="en">2014 Spring</title>
+                                <start>2014-01-15</start>
+                                <end>2014-07-15</end>
+                            </academicTerm>
+                            <resultLabel>B</resultLabel>
+                            <resultDistribution>
+                                <category count="16" label="A"/>
+                                <category count="40" label="B"/>
+                                <category count="31" label="C"/>
+                                <category count="5" label="D"/>
+                                <category count="0" label="E"/>
+                            </resultDistribution>
+                            <credit>
+                                <scheme>ECTS</scheme>
+                                <level>Master</level>
+                                <value>5</value>
+                            </credit>
+                            <engagementHours>0.0</engagementHours>
+                        </learningOpportunityInstance>
+                    </specifies>
+                </learningOpportunitySpecification>
+            </hasPart>
+            <hasPart>
+                <learningOpportunitySpecification>
+                    <identifier type="local">RETKOM4102-1</identifier>
+                    <identifier type="elmo">713549257563544</identifier>
+                    <identifier type="nus">711799</identifier>
+                    <identifier type="courseCode">RETKOM4102</identifier>
+                    <identifier type="courseVersion">1</identifier>
+                    <title xml:lang="no">Retorisk temastudium</title>
+                    <title xml:lang="en">Thematic Study of Rhetorical Spheres</title>
+                    <type>Course</type>
+                    <subjectArea>08.9</subjectArea>
+                    <iscedCode>0232</iscedCode>
+                    <url>http://www.uio.no/studier/emner/hf/iln/RETKOM4102/</url>
+                    <description xml:lang="no">
+                        <![CDATA[<p>Emnet bruker karakterskala fra A til F, der A er beste karakter og F er stryk. Les mer om karakterskalaen.</p>]]>
+                    </description>
+                    <specifies>
+                        <learningOpportunityInstance>
+                            <start>2015-08-15</start>
+                            <date>2015-12-15</date>
+                            <academicTerm>
+                                <title xml:lang="no">2015 Høst</title>
+                                <title xml:lang="nn">2015 Haust</title>
+                                <title xml:lang="en">2015 Autumn</title>
+                                <start>2015-08-15</start>
+                                <end>2015-12-15</end>
+                            </academicTerm>
+                            <resultLabel>B</resultLabel>
+                            <resultDistribution>
+                                <category count="22" label="A"/>
+                                <category count="44" label="B"/>
+                                <category count="14" label="C"/>
+                                <category count="4" label="D"/>
+                                <category count="2" label="E"/>
+                            </resultDistribution>
+                            <credit>
+                                <scheme>ECTS</scheme>
+                                <level>Master</level>
+                                <value>10</value>
+                            </credit>
+                            <engagementHours>0.0</engagementHours>
+                        </learningOpportunityInstance>
+                    </specifies>
+                </learningOpportunitySpecification>
+            </hasPart>
+            <hasPart>
+                <learningOpportunitySpecification>
+                    <identifier type="local">SOS4200-1</identifier>
+                    <identifier type="elmo">391673981325787</identifier>
+                    <identifier type="nus">732106</identifier>
+                    <identifier type="courseCode">SOS4200</identifier>
+                    <identifier type="courseVersion">1</identifier>
+                    <title xml:lang="no">Arbeidsorganisasjoner og arbeidsmarked</title>
+                    <title xml:lang="en">Theoretical specialisation</title>
+                    <type>Course</type>
+                    <subjectArea>14.2</subjectArea>
+                    <iscedCode>0314</iscedCode>
+                    <url>http://www.uio.no/studier/emner/sv/iss/SOS4200/</url>
+                    <specifies>
+                        <learningOpportunityInstance>
+                            <start>2014-01-15</start>
+                            <date>2014-07-15</date>
+                            <academicTerm>
+                                <title xml:lang="no">2014 Vår</title>
+                                <title xml:lang="nn">2014 Vår</title>
+                                <title xml:lang="en">2014 Spring</title>
+                                <start>2014-01-15</start>
+                                <end>2014-07-15</end>
+                            </academicTerm>
+                            <resultLabel>B</resultLabel>
+                            <resultDistribution>
+                                <category count="8" label="A"/>
+                                <category count="21" label="B"/>
+                                <category count="14" label="C"/>
+                                <category count="10" label="D"/>
+                                <category count="0" label="E"/>
+                            </resultDistribution>
+                            <credit>
+                                <scheme>ECTS</scheme>
+                                <level>Master</level>
+                                <value>10</value>
+                            </credit>
+                            <engagementHours>0.0</engagementHours>
+                        </learningOpportunityInstance>
+                    </specifies>
+                </learningOpportunitySpecification>
+            </hasPart>
+        </learningOpportunitySpecification>
+        <issueDate>2017-10-03T10:18:36+02:00</issueDate>
+    </report>
+</elmo>
