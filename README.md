@@ -1,2 +1,3 @@
-# elmo-pesc
-Repo for work with ELMO and PESC
+# ELSMO-PESC
+
+Repository contains examples of ELMO and PESC transcripts in XML. 
