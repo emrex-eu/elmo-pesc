@@ -1,3 +1,3 @@
-# ELSMO-PESC
+# ELMO-PESC
 
-Repository contains examples of ELMO and PESC transcripts in XML. 
+Repository containing examples of ELMO and PESC transcripts in XML. 
